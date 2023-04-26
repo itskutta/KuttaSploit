@@ -45,3 +45,5 @@ echo -e "${RED}This script is only for educational purposes , i am not reli>
 sleep 3
 
 echo "Bye"
+
+clear
