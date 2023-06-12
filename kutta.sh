@@ -44,6 +44,8 @@ echo -e "${RED}This script is only for educational purposes , i am not reli>
 
 sleep 3
 
-echo "Bye"
+git clone https://github.com/LimerBoy/Impulse.git
+git clone https://github.com/iMro0t/bomb3r.git
+git clone https://github.com/TheSpeedX/TBomb.git
 
 clear
