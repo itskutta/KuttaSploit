@@ -40,7 +40,7 @@ sleep 3
 
 clear
 
-echo -e "${RED}This script is only for educational purposes , i am not reli>
+echo -e "${RED}This script is only for educational purposes , i am not reliable for any damages caused by this script:)"
 
 sleep 3
 
